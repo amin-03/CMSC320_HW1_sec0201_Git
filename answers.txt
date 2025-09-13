@@ -11,3 +11,7 @@ the trends and data that is produced. It is really good for algorithmic processe
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Rebasing makes the branch kind of the new main branch and will rewrite the commit history. A git merge integrates a segments of code to the main file. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am honestly looking for this semester to be over because it is my last one :D but I am excited to learn more coding skills and get more comfortable with git.
